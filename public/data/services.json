@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Interior Painting",
+    "description": "Not only do we take time to give you a BEAUTIFUL paint job, but we also take time to keep your house clean during AND after the project. On our larger projects where lots of dust is created, we even hire cleaning companies to come in after us and dust, sweep, vacuum, and mop ALL affected areas.",
+    "price": 25.0,
+    "features": [
+      "Detailed preparation",
+      "Dust and clean post-project",
+      "Optional cleaning crew",
+      "Neat and respectful crew"
+    ]
+  },
+  {
+    "name": "Exterior Painting",
+    "description": "As you know, the most important part of ANY paint job is the preparation. Whether your exterior is wood, stucco, cement fiber board, or any other material, we take the time to properly prepare all surfaces so the paint bonds well and looks great... for years to come!",
+    "price": 30.0,
+    "features": [
+      "Thorough surface prep",
+      "Weather-resistant coating",
+      "Multiple materials supported",
+      "Lasting finish"
+    ]
+  },
+  {
+    "name": "Restoration Painting",
+    "description": "We love our restorations... because no one comes close to the amount of care and preparation we put into making sure the exterior surfaces of your house are restored to the best condition possible before we even THINK of applying any finish coats.",
+    "price": 45.0,
+    "features": [
+      "Scrape and sand surfaces",
+      "Caulk cracks and joints",
+      "Oil-based deep primer",
+      "Multiple finish coats"
+    ]
+  },
+  {
+    "name": "Wood Restorations",
+    "description": "We use only the best penetrating stains and UV-resistant sealers to preserve and enhance your wood. Our high-build clear coats provide a thick, durable layer of protection to keep your wood stunning and safe.",
+    "price": 40.0,
+    "features": [
+      "Penetrating stains",
+      "UV-protectant sealers",
+      "High-build clear coats",
+      "Preserves wood lifespan"
+    ]
+  },
+  {
+    "name": "Decorative Finishes",
+    "description": "Transform your space with elegance. From wall glazing and wood graining to marblizing and venetian plasters, we bring artistic finishes that turn your project into a masterpiece.",
+    "price": 50.0,
+    "features": [
+      "Faux finishes",
+      "Wall glazing",
+      "Venetian plaster",
+      "Wood graining effects"
+    ]
+  },
+  {
+    "name": "Cabinet and Woodwork Finishing",
+    "description": "We restore beauty and durability to wood furniture and cabinetry using premium materials and expert techniques, whether it’s an antique chair or a whole kitchen cabinet set.",
+    "price": 35.0,
+    "features": [
+      "Antique refinishing",
+      "Distressed finishes",
+      "Durable coatings",
+      "Furniture restoration"
+    ]
+  },
+  {
+    "name": "Commercial Painting",
+    "description": "From new production to historical restoration, we have completed high-profile commercial painting jobs across Utah. We ensure projects are done well, to spec, and on time.",
+    "price": 60.0,
+    "features": [
+      "Historic restorations",
+      "Flexible schedules",
+      "Office buildings",
+      "Professional project management"
+    ]
+  },
+  {
+    "name": "Concrete Finishes",
+    "description": "From cleaning and sealing garage floors to staining restaurant flooring with beautiful decorative finishes, we provide durable, eye-catching concrete surface work.",
+    "price": 45.0,
+    "features": [
+      "Garage floor sealing",
+      "Decorative staining",
+      "Etching and painting",
+      "Slip-resistant finishes"
+    ]
+  }
+]
