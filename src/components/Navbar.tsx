@@ -45,7 +45,7 @@ export default function Navbar({ activeRoute = "/", onNavigate }: NavbarProps) {
             <div className="flex items-center space-x-4">
               <div className="w-16 h-16 rounded-lg overflow-hidden">
                 <img
-                  src="public/images/Logo.avif"
+                  src="/images/Logo.avif"
                   alt="Pioneer Painting Logo"
                   className="w-full h-full object-contain"
                 />
