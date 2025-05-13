@@ -8,15 +8,11 @@ interface ImageData {
 
 interface CarouselProps {
   images: ImageData[];
-  title: string;
-  description: string;
+  title?: string;
+  description?: string;
 }
 
-export default function Carousel({
-  images,
-  title,
-  description,
-}: CarouselProps) {
+export default function Carousel({ images }: CarouselProps) {
   const [currentIndex, setCurrentIndex] = useState(0);
 
   const nextImage = () => {
